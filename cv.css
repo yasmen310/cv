@@ -1,0 +1,42 @@
+body{
+    background-image: url("photo/78-desktop-wallpapers-hd-4k-صور-خلفيات-كمبيوتر-سطح-المكتب.jpg");
+    background-position: top;
+    display: grid;
+    grid-template-columns: 700px 600px;
+}
+.progmName{
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    color: burlywood;
+    margin-left: 20px; 
+    margin-bottom: 30px; 
+}
+.me{
+    font-size: large;
+    font-weight: bolder;
+    font-style: italic;
+    color: antiquewhite;
+    margin-left: 20px;
+    word-spacing: 5px;
+}
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic; 
+     margin-left: 20px; 
+     color: rgb(243, 143, 12); 
+}
+.edu{
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic; 
+     margin-left: 20px; 
+     color: antiquewhite;  
+}
+img{
+    border: 5px solid rgb(117, 117, 117);
+    border-radius: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+}
